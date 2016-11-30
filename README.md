@@ -1,2 +1,1 @@
-# THGit
-Vi du tao kho chua
+# Huong dan Git co ban
